@@ -1,0 +1,1 @@
+MSH|^~\&|our app|laptop|||20210106225604||ADT_A01|||v23EVN|A01|20210106225604PID|23||||Nguyen^Duy||19970105|M|||3^^HaDong^HaTay||^^^^^^123456PV1|||ICU^201^3||||||||||||||23^^LinhPV2|||Sick
